@@ -147,6 +147,6 @@ I would like to thank [Microverse](https://www.microverse.org/go)
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/Chandan-devs-tech/hello-react-front-end/blob/feature/project-setup/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
