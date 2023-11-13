@@ -6,7 +6,6 @@ const Greeting = () => {
   const dispatch = useDispatch();
   const greeting = useSelector((state) => state.greeting.text);
   useEffect(() => {
-    // console.log('useEffect is running');
     dispatch(fetchMessage());
   }, [dispatch]);
   return <h1>{greeting}</h1>;
